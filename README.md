@@ -1,2 +1,2 @@
 # custom-totem
-go to readme.txt
+go to readme.txt in the release 
