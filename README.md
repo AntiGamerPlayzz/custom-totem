@@ -1,2 +1,2 @@
 # custom-totem
-go to readme
+go to readme.txt
